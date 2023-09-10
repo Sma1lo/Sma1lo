@@ -22,7 +22,11 @@
 **That's all, see you later**
 ### Social media
 
-> [!NOTE]
->Instagram-https://instagram.com/sma1lo_?igshid=YTQwZjQ0NmI0OA==                             
->Discord-sma1lo                                   
->Telegramm-@Sma1lo
+>[!Instagramm]
+>https://instagram.com/sma1lo_?igshid=YTQwZjQ0NmI0OA==
+
+>[!Discord]                         
+>sma1lo     
+
+>[!Telegramm]                              
+>@Sma1lo
