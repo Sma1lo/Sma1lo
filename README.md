@@ -18,7 +18,7 @@
  //Username 
      username: "" });
 ```
-
+**Next, we launch the bot; if you wish, you can add new plugins and functions**
 **That's all, see you later**
 ### Social media
 
