@@ -7,3 +7,12 @@
 **Now download WebStorm from:**`https://www.jetbrains.com/ru-ru/webstorm/`
 **Insert the code attached above. Before this, enter:**`npm install mineflayer`**into the console.**
 **We also enter a couple more commands for installing plugins in the code:** `npm install --save mineflayer-statemachine`, `npm install --save mineflayer-tool` and `npm install mineflayer-auto-eat`
+**These parameters must be filled in:**
+**//Host 
+     host: "localhost", 
+ //Port 
+     port: "", 
+ //Minecraft version 
+     version: "", 
+ //Username 
+     username: "" });**
