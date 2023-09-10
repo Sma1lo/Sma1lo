@@ -28,5 +28,5 @@
 > Discord                        
 > sma1lo     
 
-> !Telegramm                              
+> Telegram                              
 > @Sma1lo
