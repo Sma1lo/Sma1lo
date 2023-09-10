@@ -16,7 +16,8 @@
  //Minecraft version 
      version: "", 
  //Username 
-     username: "" });```
+     username: "" });
+```
 
 **That's all, see you later**
 ### Social media
