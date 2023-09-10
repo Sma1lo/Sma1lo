@@ -22,11 +22,11 @@
 **That's all, see you later**
 ### Social media
 
-> [!Instagramm]
+> Instagramm
 > https://instagram.com/sma1lo_?igshid=YTQwZjQ0NmI0OA==
 
-> [!Discord]                         
+> Discord                        
 > sma1lo     
 
-> [!Telegramm]                              
+> !Telegramm                              
 > @Sma1lo
