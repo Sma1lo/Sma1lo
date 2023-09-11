@@ -22,7 +22,7 @@
 **That's all, see you later!**
 ### Social media
 
-> Instagramm
+> Instagram
 > https://instagram.com/sma1lo_?igshid=YTQwZjQ0NmI0OA==
 
 > Discord                        
