@@ -2,13 +2,7 @@
   
    <div id="badges"> 
      <a href="" target="_blank"> 
-       <img src="https://icons8.com/icon/32323/instagram" width="40" height="40" alt="linkedin" /> 
-     </a> 
-     <!-- <a href="https://t.me/tehnomaniak07" target="_blank"> 
-       <img src="https://www.flaticon.com/free-icon/telegram_2111646" width="40" height="40" alt="telegram group" /> 
-     </a> 
-     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank"> 
-       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/> 
+       <img  
      </a> --> 
      <a href="vk.com/hty_g" target="_blank"> 
        <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/> 
