@@ -1,15 +1,6 @@
 ### 🤝 Social media: 
   
-     <a href="" target="_blank"> 
-       <img  
-     </a> --> 
-     <a href="vk.com/hty_g" target="_blank"> 
-       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/> 
-     </a> 
-     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank"> 
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/> 
-     </a> --> 
-   </div> 
+    
   
  --- 
   
