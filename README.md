@@ -1,6 +1,5 @@
 ### 🤝 Social media: 
   
-   <div id="badges"> 
      <a href="" target="_blank"> 
        <img  
      </a> --> 
