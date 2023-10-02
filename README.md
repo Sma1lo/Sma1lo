@@ -2,7 +2,7 @@
   
    <div id="badges"> 
      <a href="" target="_blank"> 
-       <img src="https://www.freepik.com/icon/instagram_2111463.png" width="40" height="40" alt="linkedin" /> 
+       <img src="https://www.flaticon.com/free-icon/telegram_2111646" width="40" height="40" alt="linkedin" /> 
      </a> 
      <!-- <a href="https://t.me/tehnomaniak07" target="_blank"> 
        <img src="https://www.flaticon.com/free-icon/telegram_2111646" width="40" height="40" alt="telegram group" /> 
