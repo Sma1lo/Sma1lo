@@ -2,7 +2,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sma1lo)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/sma1lo_?igshid=YTQwZjQ0NmI0OA==)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](vk.com/hty_g)
-[![Discord](https://img.shields.io/static/v1.svg?label=OFFICIAL&message=DISCORD&color=blue&logo=discord&style=for-the-badge)](https://discord.gg/V8VrCF8w)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=4F7DB3)](https://discord.gg/V8VrCF8w)
      
  --- 
   
