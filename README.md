@@ -31,8 +31,6 @@
  --- 
  ### 📊 Statistics:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sma1lo)](https://github.com/Sma1lo/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sma1lo&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sma1lo&theme=solarized_dark)
