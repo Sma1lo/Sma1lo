@@ -33,23 +33,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sma1lo)](https://github.com/Sma1lo/github-readme-stats)
 
- ---
-### 🕗 Online:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sma1lo&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Sma1lo/github-readme-activity-graph)
-
- ---
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sma1lo&theme=solarized_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sma1lo&theme=solarized_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sma1lo&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sma1lo&theme=solarized_dark)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sma1lo&theme=solarized_dark)
+
+---
