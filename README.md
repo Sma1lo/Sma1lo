@@ -13,7 +13,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp 
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp 
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp 
-   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp 
+
  --- 
   
  ### 🛠 Programs: 
