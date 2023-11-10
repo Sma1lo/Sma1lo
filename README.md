@@ -29,8 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
 <img 
 
-
- ---
+---
 
 
 ### 💻 Systems:
@@ -49,4 +48,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sma1lo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
