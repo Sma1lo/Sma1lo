@@ -7,7 +7,7 @@
  --- 
   
  ### 📟 Languages: 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="DaVinci Resolve" alt="java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="DaVinci Resolve" alt="java" width="40" height="40"/>&nbsp;
 
  --- 
   
