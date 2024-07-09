@@ -9,9 +9,7 @@
  ### 📟 Languages: 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="" alt="java" width="40" height="40"/>&nbsp;
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons%2Fhtml5%2Fhtml5-original.svg" title="" alt="html5" width="40" height="40"/>&nbsp;
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fhtml5%2Fhtml5-original.svg" title="" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons%2Fcss3%2Fcss3-original.svg" title="" alt="css3" width="40" height="40"/>&nbsp;
 </div>
 
