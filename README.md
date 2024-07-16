@@ -21,9 +21,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="webshtorm" alt="webshtorm" width="40" height="40"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fintellij%2Fintellij-original.svg" title="intleij" alt="intelij" width="40"
-height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp; 
+height="40"/>&nbsp;
 </div>
 
 ---
