@@ -16,7 +16,7 @@
 ### Planned
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fkotlin%2Fkotlin-original.svg" title="" alt="kotlin" width="40" height ="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-line.svg" title="go" alt="intelij" width="40"
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" title="go" alt="intelij" width="40"
 height="40"/>&nbsp;
 
 
