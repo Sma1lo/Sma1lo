@@ -12,7 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fcss3%2Fcss3-original.svg" title="" alt="css3" width="40" height="40"/>&nbsp;
 </div>
 <div>
-### It is planned to study
+### Planned
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="" alt="java" width="40" height="40"/>&nbsp;
 </div>
 
