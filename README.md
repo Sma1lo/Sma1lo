@@ -14,7 +14,6 @@
 <div>
 
 ### Planned
-
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="" alt="java" width="40" height="40"/>&nbsp;
 </div>
 
