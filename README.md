@@ -29,7 +29,7 @@ height="40"/>&nbsp;
   <div> 
    <img src="https://github.com/devicons/devicon/blob/master/icons%2Fvisualstudio%2Fvisualstudio-original.svg" title="DaVinci Resolve" alt="visual studio" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="webshtorm" alt="webshtorm" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons%2Fwebstorm%2Fwebstorm-original.svg" title="webshtorm" alt="webshtorm" width="40" height="40"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fintellij%2Fintellij-original.svg" title="intleij" alt="intelij" width="40"
 height="40"/>&nbsp;
 </div>
