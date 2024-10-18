@@ -1,7 +1,12 @@
+
+<div>
+
 ### ✉️ Social media: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sma1lo)
      
+</div>
+
  --- 
   
  ### 📟 Languages: 
@@ -38,14 +43,22 @@ height="40"/>&nbsp;
 
 ---
 
+<div>
+
 ### 💻 Systems:
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp; 
   
+</div>
+
  --- 
 
  ### 📊 Statistics:
 
+<div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sma1lo&layout=compact&theme=vision-friendly-dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sma1lo&theme=great-gatsby&show_icons=true)
+
+</div>
