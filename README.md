@@ -69,7 +69,7 @@ height="40"/>&nbsp;
 
  --- 
 
- ### 📊 Statistics:
+ ### Statistics:
 
 <div>
 
