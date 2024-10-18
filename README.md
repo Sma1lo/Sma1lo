@@ -1,7 +1,7 @@
 
 <div>
 
-### Social media: 
+## Social media: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sma1lo)
      
@@ -9,7 +9,7 @@
 
  --- 
   
- ### Languages: 
+ ## Languages: 
 <div>
 
 ### Studied:
@@ -29,7 +29,7 @@ height="40"/>&nbsp;
 
  --- 
   
- ### Programs: 
+ ## Programs: 
   
   <div> 
    <img src="https://github.com/devicons/devicon/blob/master/icons%2Fvisualstudio%2Fvisualstudio-original.svg" title="DaVinci Resolve" alt="visual studio" width="40" height="40"/>&nbsp; 
@@ -46,7 +46,7 @@ height="40"/>&nbsp;
 
 <div>
 
-### Tools:
+## Tools:
 
 ### Studied:
 
@@ -61,7 +61,7 @@ height="40"/>&nbsp;
 
 <div>
 
-### Systems:
+## Systems:
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp; 
   
@@ -69,7 +69,7 @@ height="40"/>&nbsp;
 
  --- 
 
- ### Statistics:
+ ## Statistics:
 
 <div>
 
