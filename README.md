@@ -12,13 +12,13 @@
  ### Languages: 
 <div>
 
-### Studied
+### Studied:
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fhtml5%2Fhtml5-original.svg" title="" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fcss3%2Fcss3-original.svg" title="" alt="css3" width="40" height="40"/>&nbsp;
 </div>
 <div>
 
-### Planned
+### Planned:
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" title="" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fkotlin%2Fkotlin-original.svg" title="" alt="kotlin" width="40" height ="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" title="go" alt="intelij" width="40"
@@ -46,9 +46,14 @@ height="40"/>&nbsp;
 
 <div>
 
-### Tools
+### Tools:
+
+### Studied:
 
 
+### Planed:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fspring%2Fspring-original.svg" title="windows" alt="spring" width="40" height="40"/>&nbsp; 
 
 </div>
 
