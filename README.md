@@ -51,7 +51,7 @@ height="40"/>&nbsp;
 ### Studied:
 
 
-### Planed:
+### Planned:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fspring%2Fspring-original.svg" title="windows" alt="spring" width="40" height="40"/>&nbsp; 
 
