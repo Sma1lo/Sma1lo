@@ -1,4 +1,3 @@
-<html>
 <div>
 
 ## Social media: 
@@ -80,4 +79,3 @@ height="40"/>&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sma1lo&theme=great-gatsby&show_icons=true)
 
 </div>
-</html>
