@@ -23,6 +23,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fkotlin%2Fkotlin-original.svg" title="" alt="kotlin" width="40" height ="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" title="go" alt="intelij" width="40"
 height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fc%2Fc-original.svg" title="c" alt="intelij" width="40"
+height="40"/>&nbsp;
 
 
 </div>
