@@ -38,7 +38,9 @@ height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons%2Fwebstorm%2Fwebstorm-original.svg" title="webshtorm" alt="webshtorm" width="40" height="40"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fintellij%2Fintellij-original.svg" title="intleij" alt="intelij" width="40"
 height="40"/>&nbsp;
- <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fandroidstudio%2Fandroidstudio-original.svg" title="intleij" alt="androidstudio" width="40"
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fclion%2Fclion-original.svg" title="intleij" alt="clion" width="40"
+height="40"/>&nbsp;
+ <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fandroidstudio%2Fandroidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40"
 height="40"/>&nbsp;
 </div>
 
