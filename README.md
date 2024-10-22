@@ -40,6 +40,8 @@ height="40"/>&nbsp;
 height="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fclion%2Fclion-original.svg" title="intleij" alt="clion" width="40"
 height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgoland%2Fgoland-original.svg" title="intleij" alt="goland" width="40"
+height="40"/>&nbsp;
  <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fandroidstudio%2Fandroidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40"
 height="40"/>&nbsp;
 </div>
