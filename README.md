@@ -24,6 +24,7 @@
 height="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fc%2Fc-original.svg" title="c" alt="intelij" width="40"
 height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fdart%2Fdart-original.svg" title="windows" alt="dart" width="40" height="40"/>&nbsp; 
 
 
 </div>
@@ -61,6 +62,7 @@ height="40"/>&nbsp;
 ### Planned:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fspring%2Fspring-original.svg" title="windows" alt="spring" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fdocker%2Fdocker-original.svg" title="windows" alt="docker" width="40" height="40"/>&nbsp; 
 
 </div>
 
