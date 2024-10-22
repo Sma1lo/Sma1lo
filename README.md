@@ -44,6 +44,8 @@ height="40"/>&nbsp;
 height="40"/>&nbsp;
  <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fandroidstudio%2Fandroidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40"
 height="40"/>&nbsp;
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fflutter%2Fflutter-original.svg" title="flutter" alt="androidstudio" width="40"
+height="40"/>&nbsp;
 </div>
 
 ---
