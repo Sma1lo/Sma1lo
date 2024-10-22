@@ -24,7 +24,8 @@
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fc%2Fc-original.svg" width="40"
 height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fdart%2Fdart-original.svg" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fjavascript%2Fjavascript-original.svg" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fjavascript%2Fjavascript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Flua%2Flua-original.svg" width="40" height="40"/>&nbsp; 
 
 
 </div>
@@ -62,7 +63,10 @@ height="40"/>&nbsp;
 ### Planned:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fspring%2Fspring-original.svg" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fdocker%2Fdocker-original.svg" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fdocker%2Fdocker-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Freact%2Freact-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Ffigma%2Ffigma-original.svg" width="40" height="40"/>&nbsp;
 
 </div>
 
