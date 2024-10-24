@@ -46,8 +46,6 @@ height="40"/>&nbsp;
 height="40"/>&nbsp;
  <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fandroidstudio%2Fandroidstudio-original.svg" width="40"
 height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fflutter%2Fflutter-original.svg" width="40"
-height="40"/>&nbsp;
 </div>
 
 ---
@@ -67,7 +65,8 @@ height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Freact%2Freact-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Ffigma%2Ffigma-original.svg" width="40" height="40"/>&nbsp;
-
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fflutter%2Fflutter-original.svg" width="40"
+height="40"/>&nbsp;
 </div>
 
 ---
