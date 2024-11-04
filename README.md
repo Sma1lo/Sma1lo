@@ -27,6 +27,7 @@ height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fdart%2Fdart-original.svg" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjavascript%2Fjavascript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Flua%2Flua-original.svg" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg" width="40" height="40"/>&nbsp; 
 
 
 </div>
