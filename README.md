@@ -90,7 +90,7 @@ height="40"/>&nbsp;
 
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sma1lo&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sma1lo&layout=Demo&theme=vision-friendly-dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sma1lo&theme=great-gatsby&show_icons=true)
 
