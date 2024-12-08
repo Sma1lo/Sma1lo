@@ -21,14 +21,7 @@
 ### Planned:
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fkotlin%2Fkotlin-original.svg" width="40" height ="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fc%2Fc-original.svg" width="40"
-height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fdart%2Fdart-original.svg" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fjavascript%2Fjavascript-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Flua%2Flua-original.svg" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg" width="40" height="40"/>&nbsp; 
-
+<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" width="40" height="40"/>&nbsp; 
 
 </div>
 
@@ -40,11 +33,7 @@ height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons%2Fwebstorm%2Fwebstorm-original.svg" width="40" height="40"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fintellij%2Fintellij-original.svg" width="40"
 height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fclion%2Fclion-original.svg" width="40"
-height="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgoland%2Fgoland-original.svg" width="40"
-height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Frider%2Frider-original.svg" width="40"
 height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons%2Fvisualstudio%2Fvisualstudio-original.svg" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp; 
@@ -66,12 +55,6 @@ height="40"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fspring%2Fspring-original.svg" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fdocker%2Fdocker-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Freact%2Freact-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Ffigma%2Ffigma-original.svg" width="40" height="40"/>&nbsp;
-<img src ="https://github.com/devicons/devicon/blob/master/icons%2Fflutter%2Fflutter-original.svg" width="40"
-height="40"/>&nbsp;
-</div>
 
 ---
 
@@ -80,7 +63,6 @@ height="40"/>&nbsp;
 ## Systems:
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons%2Fandroid%2Fandroid-original.svg" width="40" height="40"/>&nbsp; 
   
 </div>
 
