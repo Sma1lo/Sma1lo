@@ -5,7 +5,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sma1lo)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F254F7)](https://www.instagram.com/sma1lo_?igsh=MXJmbW9jeHVld3E1eg==)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=241661)](https://discord.gg/RPg9grpY)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=542EFF)](https://discord.gg/RPg9grpY)
      
 </div>
 
