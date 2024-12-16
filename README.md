@@ -4,7 +4,7 @@
 ## Social media: 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sma1lo)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=27A0D9)](https://www.instagram.com/sma1lo_?igsh=MXJmbW9jeHVld3E1eg==)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F254F7)](https://www.instagram.com/sma1lo_?igsh=MXJmbW9jeHVld3E1eg==)
      
 </div>
 
