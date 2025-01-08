@@ -22,7 +22,6 @@
 
 ### Planned:
 <img src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fkotlin%2Fkotlin-original.svg" width="40" height ="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons%2Fgo%2Fgo-original-wordmark.svg" width="40" height="40"/>&nbsp; 
 
 </div>
